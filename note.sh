@@ -14,3 +14,6 @@ npm i -D daisyui
 require('daisyui')
 
 npm install && run dev
+
+#for auto compile tailwind
+npm run watch
